@@ -1,2 +1,2 @@
 # coursera-course-fullstack
-theme: CAYMAN
+# theme: CAYMAN
